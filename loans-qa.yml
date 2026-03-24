@@ -1,0 +1,11 @@
+build:
+  version: "3.2"
+
+loans:
+  message: "Welcome to IndianBank loans related QA APIs "
+  contactDetails:
+    name: "Cyrano Marita - QA Lead"
+    email: "cyrano@indianbank.com"
+  onCallSupport:
+    - (785) 545-6565
+    - (853) 546-3467
