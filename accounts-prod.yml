@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Indian accounts related prod APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
-    email: "aishwarya@indianbank.com"
+    email: "{cipher}3eca06d0888779316aa6c9ce59067af0780f89e7c4055d02c646c5a1bc46f5ef185b3fc1dbb46f8b88cf1ac13d06574f"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
