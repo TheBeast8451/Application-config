@@ -2,7 +2,7 @@ build:
   version: "2.2"
 
 cards:
-  message: "Welcome to IndianBank cards related docker prod APIs "
+  message: "Welcome to IndianBank cards related prod 5 APIs "
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "sandra@indianbank.com"
